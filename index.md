@@ -4,15 +4,15 @@
 
 我叫李福安，来自2020级大数据专业，兴趣爱好可以说是比较广泛。
 
-<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_1.jpg?raw=true" width="20%"></img>
+<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_1.jpg?raw=true" width="20%">
 
-高中接触过视频剪辑以及视频制作（[点击这里](https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuPgc_1.dportrait&uid=UNDIxNDk0MDI4)），<span style=“color:red”>后面退坑主要因为学业的关系</span>，退坑后主要参与到朋友视频（[点击这里](https://space.bilibili.com/30162972/video?tid=0&page=1&keyword=&order=pubdate)）的制作里。
+高中接触过视频剪辑以及视频制作（[点击这里](https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuPgc_1.dportrait&uid=UNDIxNDk0MDI4)），<font style=“color:red”>后面退坑主要因为学业的关系</font>，退坑后主要参与到朋友视频（[点击这里](https://space.bilibili.com/30162972/video?tid=0&page=1&keyword=&order=pubdate)）的制作里。
 
 另外我还喜欢一些球类运动，例如乒乓球，羽毛球等等。属于是陶冶情操，~~象征性减肥。~~
-<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_5.gif?raw=true" width="50"></img>
+<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_5.gif?raw=true" width="50">
 
 来到大学以后，喜欢将唱歌作为一种释放压力的方式，~~虽然唱的并不怎么滴。~~ 而现在压力主要来源还是学业以及工作上，不过依赖这个兴趣依然让我积极向上。
-<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_6.jpg?raw=true" width="65%"></img></div>
+<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_6.jpg?raw=true" width="65%"></div>
 
 ## 目前情况与未来打算
 
@@ -26,7 +26,7 @@
 
 * Python语言编写的并不多，只是在数学建模中简单使用来进行模型的建立，以及编写实验室中导师交给项目的数据处理部分。
 
-<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_7.jpg?raw=true" width="27%"></img>
+<img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_7.jpg?raw=true" width="27%">
 
 #### 未来的话，希望继续走大数据，计算机这条路。
 
@@ -40,11 +40,11 @@
 
 最后，送给我自己一句话，建立该账号并开始发布自己的博客不仅仅为的是完成本次作业，更是从该博客起，开始实现未来的目标，希望十年后可以记起该账号并且实现我今天立下的目标吧。
 
-<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_3.jpg?raw=true" width="60%"></img></div>
+<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_3.jpg?raw=true" width="60%"></div>
 
 
 希望这里的大神可以好好带带我，先谢谢各位大神了。
 
-<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_8.jpg?raw=true" width="20%"></img></div>
+<div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_8.jpg?raw=true" width="20%"></div>
 
 # <div align=center> CSDN，我来啦！ </div>
