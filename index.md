@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_1.jpg?raw=true" width="20%">
 
-高中接触过视频剪辑以及视频制作（[点击这里](https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuPgc_1.dportrait&uid=UNDIxNDk0MDI4)），<font style=“color:red”>后面退坑主要因为学业的关系</font>，退坑后主要参与到朋友视频（[点击这里](https://space.bilibili.com/30162972/video?tid=0&page=1&keyword=&order=pubdate)）的制作里。
+高中接触过视频剪辑以及视频制作（[点击这里](https://www.youku.com/profile/index/?spm=a2h0c.8166622.PhoneSokuPgc_1.dportrait&uid=UNDIxNDk0MDI4)），<font color=red>后面退坑主要因为学业的关系</font>，退坑后主要参与到朋友视频（[点击这里](https://space.bilibili.com/30162972/video?tid=0&page=1&keyword=&order=pubdate)）的制作里。
 
 另外我还喜欢一些球类运动，例如乒乓球，羽毛球等等。属于是陶冶情操，~~象征性减肥。~~
 <img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_5.gif?raw=true" width="50">
