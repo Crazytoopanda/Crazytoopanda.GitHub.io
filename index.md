@@ -49,4 +49,4 @@ Glad to browse my site, guy!
 
 <div align="left"><img src="https://github.com/Crazytoopanda/AboutCSDN/blob/main/CSDN_Blog_SW1_8.jpg?raw=true" width="20%"></div>
 
-# <div align=center> CSDN，我来啦！ </div>
+# <div align="center"> CSDN，我来啦！ </div>
